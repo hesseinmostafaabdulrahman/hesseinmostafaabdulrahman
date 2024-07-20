@@ -1,24 +1,25 @@
 
-<h3>💫 About Me:</h3>
-<hr>
-- 🌱 I’m currently learning * Language HTML, CSS, JavaScript *
+# 💫 About Me:
+🔭 <br>
+🌱 <br>
+📫 <br>
+<br>⚡
+👯<br>
+ 🤭
 
-- 💬 Ask me anything on Twitter * @Husseinmosta7 *
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/husseinmustafa" target="blank"><img src="https://img.shields.io/twitter/follow/husseinmustafa?logo=twitter&style=for-the-badge" alt="husseinmustafa" /></a> </p>
 
-<p align="left">
-<a href="https://twitter.com/husseinmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="husseinmustafa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/feed/?trk=404_page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein mustafa" height="30" width="40" /></a>
-<a href="https://instagram.com/7essein_mostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7essein_mostafa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hessein mostafa" height="30" width="40" /></a>
-<a href="[https://discord.gg/hossein0509_73074](https://discord.com/channels/@me)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hossein0509_73074" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hessein-mostafa-9aa18829b/) [![Twitter](https://x.com/Hesseinmostaf) 
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamiromar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamiromar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" title="go to the C" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>C</a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" title="go to the python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>Python</a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" title="go to the sqlite"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> SQLITE</a>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mohamedsamiromar&icon=0&color=0)](https://visitcount.itsvg.in)
